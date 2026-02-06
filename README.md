@@ -41,4 +41,5 @@ npm run dev
 ```
 
 ## Screenshots
-(Include screenshots of the app here)
+![Task List](./screenshots/index.png)
+![Login](./screenshots/login.png)
