@@ -41,5 +41,5 @@ npm run dev
 ```
 
 ## Screenshots
-![Task List](./screenshots/index.png)
-![Login](./screenshots/login.png)
+![Task List](./screenshot/index.png)
+![Login](./screenshot/login.png)
