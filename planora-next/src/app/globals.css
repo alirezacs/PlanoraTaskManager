@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@layer base{
+    .container{
+        @apply mx-auto px-4;
+    }
+}
